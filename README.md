@@ -11,12 +11,10 @@ Create a new anaconda environment and install from the default channels with `co
 Activate the environment with `conda activate comb_pred_env`, then install CPLEX from the conda-forge channel with `conda install -c conda-forge <CPLEX_PACKAGE_NAME>`.  
 
 ## Repository Organization
-This repository is divided into 3 parts:
+This repository includes a jupyter notebook for reproducing the experimental analysis:
 
-1. Documentation for [the nonadditivity prediction method (Computational Cross-Validation)](https://github.com/twytock/<REPOSITORY_NAME>/doc/Computational_Cross_Validation.md).
-2. Documentation for [the drug combination prediction method (Drug Combination Prediction)](https://github.com/twytock/<REPOSITORY_NAME>/doc/Drug_Combination_Prediction.md).
-3. Documentation for [analyzing the cell viability data (Experimental Results)](https://github.com/twytock/<REPOSITORY_NAME>/doc/Experimental_Results.md).
+1. Documentation for [analyzing the cell viability data (Experimental Results)](https://github.com/twytock/DrugCombPred/doc/Experimental_Results.md).
 
-The source code is stored in the [code](https://github.com/twytock/<REPOSITORY_NAME>/code/) folder.
-The require input data is stored in the [data](https://github.com/twytock/<REPOSITORY_NAME>/data/) folder.
-The outputs generated from running the code are stored in the [output](https://github.com/twytock/<REPOSITORY_NAME>/output/) folder.
+The source code is stored in the [code](https://github.com/twytock/DrugCombPred/code/) folder.
+The require input data is stored in the [data](https://github.com/twytock/DrugCombPred/data/) folder.
+The outputs generated from running the code are stored in the [output](https://github.com/twytock/DrugCombPred/output/) folder.
