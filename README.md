@@ -8,7 +8,7 @@ For the drug combination prediction method only, we require CPLEX () to solve th
 
 The required version of python and the dependent packages can be downloaded here: https://www.anaconda.com/distribution/. 
 Create a new anaconda environment and install from the default channels with `conda env create -f comb_pred_env.yml`.
-Activate the environment with `conda activate comb_pred_env`, then install CPLEX from the conda-forge channel with `conda install -c conda-forge <CPLEX_PACKAGE_NAME>`.  
+Activate the environment with `conda activate comb_pred_env`
 
 ## Repository Organization
 This repository includes a jupyter notebook for reproducing the experimental analysis:
