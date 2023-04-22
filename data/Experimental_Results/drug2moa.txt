@@ -1,0 +1,158 @@
+## drug2moa.txt -- contains the drug to mechanism of action mapping
+bephenium	Acetylcholine receptor agonist
+fluocinolone	Glucocorticoid receptor agonist
+amphotericin	macrolide antibiotic
+sulfaguanidine	Thymidylate synthase inhibitor
+albendazole	Tubulin inhibitor
+cantharidin	Protein phosphatase inhibitor
+miconazole	Cytochrome P450 inhibitor
+butamben	Calcium channel blocker,Sodium channel blocker
+tenofovir	Reverse transcriptase inhibitor
+melphalan	DNA alkylating agent
+hexamethonium	Acetylcholine receptor antagonist
+nadifloxacin	Topoisomerase inhibitor
+glasdegib	Smoothened receptor antagonist
+sulfadimethoxine	Thymidylate synthase inhibitor
+sulfamethizole	Thymidylate synthase inhibitor
+pivmecillinam	Beta-lactamase inhibitor
+estropipate	Estrogen receptor agonist
+nifuroxazide	STAT inhibitor
+cloxacillin	Beta-lactamase inhibitor
+pregnenolone	Cannabinoid receptor antagonist
+pyridoxine	Vitamin B
+sulbactam	Beta-lactamase inhibitor
+lomefloxacin	Topoisomerase inhibitor
+brefeldin-a	macrocyclic lactone
+amantadine	Antiviral
+oxacillin	Beta-lactamase inhibitor
+acalabrutinib	BTK inhibitor
+anisomycin	DNA synthesis inhibitor,Protein synthesis inhibitor
+oncrasin-1	Apoptosis stimulant
+sulfamethoxypyridazine	Thymidylate synthase inhibitor
+pfi-3	Bromodomain inhibitor
+stanolone	anabolic steroid
+encorafenib	RAF inhibitor
+bgj398	FGFR inhibitor
+cmap-erg-azd2281---lincs	PARP inhibitor
+gsk1120212	MEK inhibitor
+laq824	HDAC inhibitor
+mc 1568	HDAC inhibitor
+mycophenolic acid	IMPase inhibitor,Dehydrogenase inhibitor,Purine antagonist,Immunosuppressant,Hydroxycarboxylic acid receptor agonist
+omiplasib	PI3K inhibitor
+retinoic acid	Retinoid receptor agonist
+ro-28-1675	Glucokinase activator
+torin 2	MTOR inhibitor
+tyrphostin ag1478	Tyrosine kinase inhibitor
+tyrphostin ag490	Tyrosine kinase inhibitor
+zm447439	Aurora kinase inhibitor
+brd-k54606188	Bromodomain inhibitor
+sgc-0946	DOT1L inhibitor,DNA methyltransferase inhibitor
+rg-4733	Gamma secretase inhibitor
+brd-k74305673	IKK inhibitor
+unc-1215	DNA methyltransferase inhibitor
+sgc-cbp30	Bromodomain inhibitor
+chir-99021	MAP kinase inhibitor
+brd-k60507178	Topoisomerase inhibitor,Tubulin inhibitor
+gsk-1059615	PI3K inhibitor
+brd-k17084514	Estrogen receptor agonist
+pp-1	Phosphoinositide dependent kinase inhibitor,Tyrosine kinase inhibitor
+gsk-126	Histone lysine methyltransferase inhibitor
+m-344	HDAC inhibitor
+p-22077	Ubiquitin specific protease inhibitor
+wp-1130	JAK inhibitor
+pmsf	Serine protease inhibitor
+alfacalcidol	Vitamin D receptor agonist
+candesartan	Angiotensin receptor antagonist
+digitoxin	ATPase inhibitor
+trifluridine	Thymidylate synthase inhibitor,DNA directed DNA polymerase inhibitor
+rolipram	Phosphodiesterase inhibitor
+cinobufagin	ATPase inhibitor
+neostigmine	Acetylcholinesterase inhibitor
+cortisol	Glucocorticoid receptor agonist
+methylene-blue	Tau aggregation inhibitor,Monoamine oxidase inhibitor,Guanylyl cyclase inhibitor,Nitric oxide production inhibitor
+tetrabenazine	Vesicular monoamine transporter inhibitor
+tariquidar	P-glycoprotein inhibitor
+tolbutamide	ATP channel blocker
+diacerein	Interleukin inhibitor
+methyldopa	Adrenergic receptor agonist
+triciribine	Akt inhibitor
+calcipotriol	Vitamin D receptor agonist
+mitoxantrone	Topoisomerase inhibitor
+tacrolimus	Calcineurin inhibitor
+everolimus	MTOR inhibitor
+atorvastatin	HMGCR inhibitor
+resveratrol	Cytochrome P450 inhibitor,SIRT activator
+cytarabine	Ribonucleotide reductase inhibitor
+entacapone	Catechol O methyltransferase inhibitor
+exemestane	Aromatase inhibitor
+docetaxel	Tubulin inhibitor
+bortezomib	NFKB pathway inhibitor,Proteasome inhibitor
+fulvestrant	Estrogen receptor antagonist
+alvespimycin	HSP inhibitor
+daunorubicin	Topoisomerase inhibitor,RNA synthesis inhibitor
+vincristine	Tubulin inhibitor
+flubendazole	Tubulin inhibitor
+cyclosporin-a	Calcineurin inhibitor
+ciclopirox	Membrane integrity inhibitor
+lovastatin	HMGCR inhibitor
+doxorubicin	Topoisomerase inhibitor
+telotristat	Serotonin receptor antagonist,Serotonin release inhibitor
+clotrimazole	Imidazoline ligand,Cytochrome P450 inhibitor
+ramipril	Angiotensin converting enzyme inhibitor
+digoxin	ATPase inhibitor
+paclitaxel	Tubulin inhibitor
+canagliflozin	Sodium/glucose cotransporter inhibitor
+galantamine	Acetylcholinesterase inhibitor
+sumatriptan	Serotonin receptor agonist
+sorafenib	RET tyrosine kinase inhibitor,VEGFR inhibitor,KIT inhibitor,FLT3 inhibitor,RAF inhibitor,PDGFR inhibitor
+montelukast	Leukotriene receptor antagonist
+ouabain	ATPase inhibitor
+topotecan	Topoisomerase inhibitor
+fenbendazole	Tubulin inhibitor
+camptothecin	Topoisomerase inhibitor
+tolperisone	Voltage-gated sodium channel blocker
+mevastatin	HMGCR inhibitor
+chlorothiazide	Diuretic
+simvastatin	HMGCR inhibitor
+saracatinib	Src inhibitor
+dactinomycin	RNA polymerase inhibitor
+aprepitant	Tachykinin antagonist
+ambrisentan	Endothelin receptor antagonist
+lansoprazole	ATPase inhibitor
+pitavastatin	HMGCR inhibitor
+carfilzomib	Proteasome inhibitor
+etoposide	Topoisomerase inhibitor
+milrinone	Phosphodiesterase inhibitor
+rupatadine	Platelet activating factor receptor antagonist,Histamine receptor antagonist
+lacidipine	Calcium channel blocker
+wortmannin	PI3K inhibitor
+ibutilide	Potassium channel blocker
+panobinostat	HDAC inhibitor
+genistein	Tyrosine kinase inhibitor
+rifapentine	RNA polymerase inhibitor
+resatorvid	Toll-like receptor antagonist
+ethynodiol	Steroidal progestin
+olopatadine	Histamine receptor antagonist
+estrone	Estrogen receptor agonist
+fluvastatin	HMGCR inhibitor
+5-iodotubercidin	Adenosine kinase inhibitor
+rifampicin	RNA polymerase inhibitor
+vinblastine	Microtubule inhibitor,Tubulin inhibitor
+malonoben	Protein tyrosine kinase inhibitor
+epirubicin	Topoisomerase inhibitor
+pp-2	Src inhibitor
+osi-027	MTOR inhibitor
+pac-1	Caspase activator
+ko-143	Breast cancer resistance protein inhibitor
+pf-04620110	Diacylglycerol O acyltransferase inhibitor
+bms-387032	CDK inhibitor,MCL1 inhibitor,Cell cycle inhibitor
+u-0126	MEK inhibitor
+rgfp-966	HDAC inhibitor
+cgs-21680	Adenosine receptor agonist
+cgp-60474	CDK inhibitor
+ex-527	SIRT inhibitor
+tg-101348	JAK inhibitor,FLT3 inhibitor
+wye-125132	MTOR inhibitor
+sb-334867	Orexin receptor antagonist
+pik-75	PI3K inhibitor,DNA protein kinase inhibitor
+ikk-16	IKK inhibitor
