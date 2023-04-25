@@ -13,8 +13,8 @@ Activate the environment with `conda activate comb_pred_env`
 ## Repository Organization
 This repository includes a jupyter notebook for reproducing the experimental analysis:
 
-1. Documentation for [analyzing the cell viability data (Experimental Results)](https://github.com/twytock/DrugCombPred/doc/Experimental_Results.md).
+1. Documentation for [analyzing the cell viability data (Experimental Results)](https://github.com/twytock/DrugCombPred/blob/main/doc/Experimental_Results.md).
 
-The source code is stored in the [code](https://github.com/twytock/DrugCombPred/code/) folder.
-The require input data is stored in the [data](https://github.com/twytock/DrugCombPred/data/) folder.
-The outputs generated from running the code are stored in the [output](https://github.com/twytock/DrugCombPred/output/) folder.
+The source code is stored in the [code](https://github.com/twytock/DrugCombPred/tree/main/code/Experimental_Results) folder.
+The required input data is stored in the [data](https://github.com/twytock/DrugCombPred/tree/main/data/Experimental_Results) folder.
+The outputs generated from running the code are stored in the [output](https://github.com/twytock/DrugCombPred/tree/main/output/Experimental_Results) folder.
