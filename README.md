@@ -3,8 +3,7 @@
 Source code for generating the figures in the paper "Repurposing Drug Combinations for the Treatment of Brain Cancers."
 
 ## System Requirements and Installation
-The python code has been run with python 3.7 with the packages indicated in the `comb_pred_env.yml` file found at the top level of this repository. 
-For the drug combination prediction method only, we require CPLEX () to solve the relevant mixed-integer quadratic programming problem.
+The python code has been run with python 3.10 with the packages indicated in the `comb_pred_env.yml` file found at the top level of this repository. 
 
 The required version of python and the dependent packages can be downloaded here: https://www.anaconda.com/distribution/. 
 Create a new anaconda environment and install from the default channels with `conda env create -f comb_pred_env.yml`.
